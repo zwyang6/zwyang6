@@ -2,7 +2,7 @@
 
 My name is Zhiwei Yang. I'm a Ph.D. student at Academy for Engineering and Technology of <i class="fas fa-university"></i> **Fudan University**. I am now working on Multimodal Perception, Weakly-supervised Learning and Meical Image Processing.
 
-<i class="fas fa-file-alt"></i> **I am now seeking intership or formal job opportunities in MLLMs applications！** Please feel free to email zhiwei at [zwyang.research@gmail.com](mailto:zwyang21@m.fudan.edu.cn).
+<i class="fas fa-file-alt"></i> **I am now seeking intership and formal job opportunities in MLLMs applications！** Please feel free to email zhiwei at [zwyang.research@gmail.com](mailto:zwyang21@m.fudan.edu.cn).
 
 I am currently a member of Shanghai Key Laboratory of Medical Image Computing and Computer Assisted Intervention <i class="fab fa-microsoft"></i> **MICCAI Lab**, co-supervised by <a href="https://swang.miccai.cloud/">Prof. Shuo Wang</a> and <a href="https://miccai.fudan.edu.cn/34225/list.htm">Prof. Zhijian Song</a>.
 Prior to this, I received the B.E. degree in Mechanical Engineering from Hohai University, Nanjing, China, in 2021, supervised by <a href="https://scholar.google.com/citations?hl=en&user=sTQwwu4AAAAJ">Prof. Yanjie Wang</a>.
@@ -15,6 +15,15 @@ My works include [SeCo](https://arxiv.org/pdf/2402.18467), [ExCEL](https://arxiv
 - Personal Pages: https://zwyang6.github.io/
 - Google Scholar: https://scholar.google.com/citations?user=e_lRvJ8AAAAJ&hl=en
 - DBLP: https://dblp.org/pid/78/8054.html?view=by-type
+
+### 🔥 News
+- [2025-03] 🎉🎉 one paper is accepted to **[TMM 2025](https://arxiv.org/pdf/2404.08195)**.
+- [2025-02] 🎉🎉 two papers are accepted to **[CVPR 2025](https://arxiv.org/abs/2503.20826)**.
+- [2025-01] 🎉🎉 one paper is honored as **[AAAI 2025 Oral](https://arxiv.org/pdf/2412.10776v1)**.
+- [2024-12] 🎉🎉 two papers are accepted to **[AAAI 2025](https://arxiv.org/pdf/2412.11076)**.
+- [2024-06] 🎉🎉 one paper is accepted to **[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Separate_and_Conquer_Decoupling_Co-occurrence_via_Decomposition_and_Representation_for_CVPR_2024_paper.pdf)**.
+- [2023-07] 🎉🎉 one paper is accepted to **[MICCAI 2023](https://conferences.miccai.org/2023/papers/474-Paper0081.html)**.
+- [2023-07] 🎉🎉 one paper is accepted to **[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Qu_Boosting_Whole_Slide_Image_Classification_from_the_Perspectives_of_Distribution_ICCV_2023_paper.pdf)**.
 
 ### 💻 Selected Research Papers
 
